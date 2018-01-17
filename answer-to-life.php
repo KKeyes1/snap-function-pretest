@@ -3,7 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Answer To Life</title>
-		<script type="text/javascript" src="answer-to-life.js"></script>
 	</head>
 	<body>
 		<?php
