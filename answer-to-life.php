@@ -23,7 +23,7 @@
 		?>
 		<form action="<?php echo $_SERVER['PHP_SELF']; ?>" id="question" method="post">
 			<div>
-				<?php echo "What is the answer to life, the universe, and everything?"; ?>
+				<?php echo "What is the answer to life, the universe, and everything? Hint: its 42"; ?>
 				<input type="text" id="answer" name="answer">
 				<input type="submit" name="question">
 			</div>

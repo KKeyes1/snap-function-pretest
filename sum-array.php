@@ -10,6 +10,8 @@
 		$arr1 = array(1,2,3,4,5);
 		$arr2 = array(6,7,8,9,10);
 		$arrSum = array();
+		print_r($arr1);
+		print_r($arr2);
 
 		function sumArrays($arr1, $arr2) {
 			foreach ($arr1 as &$value1) {
